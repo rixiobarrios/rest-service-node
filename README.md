@@ -40,4 +40,4 @@
 
 - If everything is successful, you should see a message on console saying: ```Server is running on port 5000.```  
 - Open up your browser and navigate to http://localhost:5000/.
-- If you see the word ```Hi!```, your first GET request was successful.# rest-service-node
+- If you see the word ```Hi!```, your first GET request was successful.
